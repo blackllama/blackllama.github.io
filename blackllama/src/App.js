@@ -87,3 +87,6 @@ class App extends Component {
 }
 
 export default App;
+
+// npm run build
+// npm install --save-dev gh-pages
