@@ -90,4 +90,9 @@ export default App;
 
 // npm run build
 // copy build folder contents to root (automate/replace this)
+// git add --all
+// git commit -m ""
+//git push origin master
+
+
 // npm install --save-dev gh-pages
