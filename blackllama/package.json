@@ -30,7 +30,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://blackllama.github.io/places",
+  "homepage": "http://blackllama.github.io",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
